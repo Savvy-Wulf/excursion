@@ -1,0 +1,37 @@
+#background {
+    background-color:black;
+    text-align: center;
+}
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+.button {
+    cursor: pointer;
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+.excursion-remember {
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+footer {
+    text-align: right;
+    color: grey;
+}
